@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "project-dr-automation",
+  "private_key_id": "009448384316811c223743c52ff8aef3a3ab01ea",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDJ/zDjB8zAnKXz\n8KNJWOei3ZHGrShXYyFHo1ZyddDJJexiIk4WhEjc6kKkQH74+BeFFXBF5ZTYmNjA\nIog9ntMFTV+734af3X17Wf5Ay0qEitq9+15JThuyKFzDaOUgPQHmDFq5WCrBw+4Z\nkt/h2cCfQm+P3xBELEliJzjtD5md6Lj7DSqAwb/zTMziA9Ganmj8zRQY1ujXBN4+\nm0o+qXS01pkg5Z8f7BAJXV8LvFxcl2COeWisrnFbyyF/GNLKIgeivE3qUoI6Rnaw\n4H8tzzsfOtyRzvJTpIyGMMxDYBN14qF1klsp3h/XzFziEut+zCnj/fP9c3QPfQLj\nerN4bvBxAgMBAAECggEAAvJ8HT3jLwbCFZtz2HQUKiBLOj+9xvuhaU0LlnncAQlS\nfVKPOt0f092qTqufEU/LsQ4xZYsDsf7V6m9pNzlIDoEKNetSnfvCcvsAHo7QxdBh\nqr6zicSFMIM4qkRk08ShcIC1j1QnMzf3fgGdI7Y/LRuwKsRYNYnDYYEdak5iq9xU\nxm/RUY800snPUNiI5t1IFaI9XcUGoUUK6T9KB5sxU7NUqfNzlvkccWbCX+qsTmUq\nguSSMMzGTGiPn5FygLj3z+61jdBvstwRZFgUyshB3JPVEP+XiISVR74XBCGlCoSg\nKBOOnPjoUGRhsWOBlt2lEEFEK+0uJzOhkVm9XYRXwQKBgQD7KmwqW7h7yZb5/tLY\nNnLa6JMIgKSjwE8p5t6EV/BLv3M49Bga34yzulK9er8TrVl/GZ+PAqlAJ+H4zRp2\nYTk0b2UiYMIJGwlasIsHZDJc48Uhlt9SGc/ClaVNsoY9e/1JYr77fBoiAjL17gFv\n/02s5p/10TKBBTpV9X5/RbuzoQKBgQDN4n84pSKv0qoMrJfhmhywC/8lXyIQ5IKL\nBkMeY8e2i9civwQky2bBsdsMHjku643SRQduI/pYaKgVFVhO9LEKMyrdiL3QwYIu\niAKdj+H4JTWMtZNO8TaeMOw1GCoppBcdxGRrFShHJ7ob0WDQDhVvxn7ucr/aAYoB\n8rXyVg0K0QKBgQCJzm7mlsiT8rmJlQ0uYEGIZo813Q94YS2OOgPg7TcE+JhJqXQI\nWpuiiRqYp95q93PhTrfDCZy/fKJ5ll9skE+Iu43r3NbZlCH/xlmhxpHzcW1ZzqPd\nMhhSFTVLeiY5WexQ9YMADMlx228GjH3xa0y9DxS5FPz22V12iGnNfv9LwQKBgQCN\nPSdnlamxEoUDwtdCtjWd8+zqF1RIYGrJstcSnwLf0RkaRg4yq7Lnh/qsWoOCE6gs\nKpzJSzcvtUQxin4VVDmrtKRga7FD56xF/ZpFuvIbCHOu/tV6n3GHnio81kH+ZQpS\nqmr1JwOFpNRAxydyM2czUem77M5+YPXrFjUJdUznMQKBgFu5pgvbkMZB0KCyj/+h\npXj/No8rZsI63pIU52NBlhhfe3Xh9JMAd2dwtE4nevP5OZAZanZI/6KixzvWA+8x\ncSQkjcgKD31Zx1hNMzEoybOXNi/hI26su6QYOUWzSvk+8KkVQ8aILcW4FaNC+8Ra\nAO3n5nAf9Pi6gS4FJsNRmWX5\n-----END PRIVATE KEY-----\n",
+  "client_email": "egen-user@project-dr-automation.iam.gserviceaccount.com",
+  "client_id": "102191753593438001419",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/egen-user%40project-dr-automation.iam.gserviceaccount.com"
+}
